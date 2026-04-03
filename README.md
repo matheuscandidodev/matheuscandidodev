@@ -17,12 +17,12 @@ Atualmente construindo projetos com foco em performance, boas práticas e interf
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheuscandidodev&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscandidodev&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://readme-stats-fast.vercel.app/api?username=matheuscandidodev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=matheuscandidodev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=matheuscandidodev&theme=tokyonight&hide_border=true"/>
+  <img src="https://readme-stats-fast.vercel.app/api/streak?username=matheuscandidodev&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📬 Onde me encontrar
