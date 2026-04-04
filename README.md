@@ -1,9 +1,15 @@
 # Olá, eu sou o Matheus Lima Cândido 👋
-> Fortaleza, Ceará — Brasil
+📍 Fortaleza, Ceará — Brasil | 🎓 Análise e Desenvolvimento de Sistemas — 4º período
 
-Desenvolvedor **Fullstack** em construção — movido pela ambição de transformar ideias em produtos reais. Escrevo código todos os dias, erro, aprendo e persisto. Ainda no início da jornada, mas com olhos no horizonte.
+## Sobre mim
 
-Atualmente construindo projetos com foco em performance, boas práticas e interfaces que fazem sentido para quem usa.
+Desenvolvedor **Fullstack** em formação — curioso por natureza, focado por escolha.
+Tenho empenho naquilo que faço e não entrego nada pela metade.
+Se tem um defeito nisso? Sou perfeccionista — e ainda estou aprendendo a equilibrar.
+
+Estou no 4º período de **Análise e Desenvolvimento de Sistemas**,
+construindo projetos reais enquanto aprendo, porque acredito que
+a melhor forma de evoluir é colocando a mão na massa.
 
 ## 🛠 Tecnologias & Ferramentas
 
