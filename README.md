@@ -3,9 +3,9 @@
 
 ## Sobre mim
 
-Desenvolvedor **Fullstack** em formação — curioso por natureza, focado por escolha.
+Desenvolvedor **Fullstack** em formação, curioso por natureza, focado por escolha.
 Tenho empenho naquilo que faço e não entrego nada pela metade.
-Se tem um defeito nisso? Sou perfeccionista — e ainda estou aprendendo a equilibrar.
+Se tem um defeito nisso? Sou perfeccionista, e ainda estou aprendendo a equilibrar.
 
 Estou no 4º período de **Análise e Desenvolvimento de Sistemas**,
 construindo projetos reais enquanto aprendo, porque acredito que
